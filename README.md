@@ -20,7 +20,7 @@
 
 ### 💻 Projects
 
-- 🚀 **[Social Media](https://github.com/Harshthakur0729/Social-Media)**  
+- 🚀 **Social Media (https://github.com/Harshthakur0729/Social-Media)**  
   A backend-based project where users can upload images, and an AI automatically generates suitable captions for them.
 
 - 🧩 **Dynamic Web**  

@@ -1,8 +1,12 @@
-<img width="768" height="1344" alt="IMG_20250919_013519" src="https://github.com/user-attachments/assets/57854ef6-03e6-4b96-bd2f-a702777f98e9" /><div align="center">
+<div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://drive.google.com/file/d/1n6_wAk2AZ7XgyzXd3QSqQEFqNEoeN9FQ/view?usp=sharing" alt="Harshad Thakur" width="180" height="180" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 20px rgba(0,0,0,0.3);"/>
+        <img src="https://github.com/user-attachments/assets/57854ef6-03e6-4b96-bd2f-a702777f98e9" 
+             alt="Harshad Thakur" 
+             width="180" 
+             height="180" 
+             style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 20px rgba(0,0,0,0.3);" />
       </td>
       <td>
         <h1 align="center">✨ Hi, I'm <span style="color:#4FC3F7;">Harshad Thakur</span> 👋</h1>
@@ -13,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshthakur0729&label=Profile%20Views&color=00bfa5&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=harshthakur0729&label=Profile%20Views&color=00bfa5&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -28,7 +32,7 @@
 
 ## 💻 Featured Projects
 
-### 🚀 Social Media (https://github.com/Harshthakur0729/Social-Media)
+### 🚀 [Social Media](https://github.com/Harshthakur0729/Social-Media)
 > A backend-based project where users can upload images, and an **AI auto-generates perfect captions** for them using advanced image recognition.  
 > 🧠 Built with: Node.js, Express.js, MongoDB, and AI APIs.
 
@@ -58,7 +62,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshad thakur" target="_blank">
+  <a href="https://linkedin.com/in/harshad-thakur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/harshthakur._07" target="_blank">

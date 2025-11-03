@@ -1,14 +1,29 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-top: 30px;">
-  <img 
-    src="IMG_20250919_013519.png" 
-    alt="Harshad Thakur" 
-    width="270" 
-    height="520" 
-    style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 25px rgba(0,0,0,0.4);" 
-  />
-    <h1 style="margin: 0; font-size: 32px;">✨ Hi, I'm <span style="color:#4FC3F7;">Harshad Thakur</span> 👋</h1>
-    <h3 style="margin-top: 8px; font-size: 20px; color: #6c757d;">🚀 Full Stack MERN Developer | Problem Solver | Tech Explorer</h3>
+<div align="center" style="margin-top: 30px;">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <!-- Left Side: Image -->
+      <td style="padding-right: 40px;">
+        <img 
+          src="IMG_20250919_013519.png" 
+          alt="Harshad Thakur" 
+          width="270" 
+          height="520" 
+          style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 25px rgba(0,0,0,0.4);" 
+        />
+      </td>
+    <!-- Right Side: Text -->
+    <td style="vertical-align: middle; text-align: left;">
+        <h1 style="margin: 0; font-size: 32px;">
+          ✨ Hi, I'm <span style="color:#4FC3F7;">Harshad Thakur</span> 👋
+        </h1>
+        <h3 style="margin-top: 10px; font-size: 20px; color: #6c757d;">
+          🚀 Full Stack MERN Developer | Problem Solver | Tech Explorer
+        </h3>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 

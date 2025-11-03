@@ -1,8 +1,8 @@
-<div align="center">
+<img width="768" height="1344" alt="IMG_20250919_013519" src="https://github.com/user-attachments/assets/57854ef6-03e6-4b96-bd2f-a702777f98e9" /><div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/Harshthakur0729/Harshthakur0729/main/assets/profile.jpg" alt="Harshad Thakur" width="180" height="180" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 20px rgba(0,0,0,0.3);"/>
+        <img src="https://drive.google.com/file/d/1n6_wAk2AZ7XgyzXd3QSqQEFqNEoeN9FQ/view?usp=sharing" alt="Harshad Thakur" width="180" height="180" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 20px rgba(0,0,0,0.3);"/>
       </td>
       <td>
         <h1 align="center">✨ Hi, I'm <span style="color:#4FC3F7;">Harshad Thakur</span> 👋</h1>
